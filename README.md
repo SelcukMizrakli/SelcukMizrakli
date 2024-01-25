@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SelcukMizrakli
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C#,Java
+- 🌱 I’m currently learning C#,Java,Selenium
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @gmail.com
 
