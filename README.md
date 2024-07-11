@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selçuk Mızraklı</h1>
-<h3 align="center">Alanya Alaaddin Keykubat Üniversitesi 2. sınıf öğrencisiyim. QA ve AI alanlarında kendimi geliştirmekteyim. Öğrenmeye açığım ve yeni teknolojileri yakından takip ediyorum.</h3>
+<h3 align="center">I am a 2nd year student of Alanya Alaaddin Keykubat University Computer Programming. I am developing myself in the fields of QA and AI. I am open to learning and follow new technologies closely.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sevimozsoy&label=Profile%20views&color=0e75b6&style=flat" alt="selcukmizrakli" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=selcukmizrakli&label=Profile%20views&color=0e75b6&style=flat" alt="selcukmizrakli" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selcukmizrakli" alt="selcukmizrakli" /></a> </p>
 
