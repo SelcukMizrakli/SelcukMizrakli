@@ -44,7 +44,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
       </a>
       <a href="https://maven.apache.org/" target="_blank" rel="noreferrer" >
-            <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="apache" width="40" height="40"/>
+            <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/>
       </a>
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" >
             <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="40" height="40"/>
@@ -53,10 +53,13 @@
             <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/>
       </a>
       <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer" >
-            <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg" alt="jenkins" width="40" height="40"/>
+            <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
       </a>
       <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer" >
             <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
+      </a>
+      <a href="https://www.php.net/" target="_blank" rel="noreferrer" >
+            <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
       </a>
 </p>
 
