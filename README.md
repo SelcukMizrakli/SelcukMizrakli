@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @SelcukMizrakli
-- 👀 I’m interested in QA Engineering & AI/Machine Learning
-- 🌱 I’m currently learning Java, JUnit, TestNG, Selenium, Cucumber & Python/Machine Learning
-<!---
-SelcukMizrakli/SelcukMizrakli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Selçuk Mızraklı</h1>
 <h3 align="center">Alanya Alaaddin Keykubat Üniversitesi 2. sınıf öğrencisiyim. QA ve AI alanlarında kendimi geliştirmekteyim. Öğrenmeye açığım ve yeni teknolojileri yakından takip ediyorum.</h3>
 
