@@ -12,13 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selcukmizrakli" alt="selcukmizrakli" /></a> </p>
 
-- 🔭 I’m currently working on which is a school project [nfcBasic](https://github.com/selcukmizrakli/nfcBasics)
+- 🌱 I’m currently learning **Java, JUnit, TestNG, Selenium, Cucumber & Python/Machine Learning and many other!**
 
-- 🌱 I’m currently learning **React, React Native, NodeJs and many other!**
-
-- 📝 I regularly write articles on [https://webmaster.kitchen](https://webmaster.kitchen)
-
-- 📫 How to reach me **sevimozsoy30@gmail.com**
+- 📫 How to reach me **selcukmizrakli20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
