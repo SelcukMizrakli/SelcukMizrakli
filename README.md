@@ -46,6 +46,18 @@
       <a href="https://maven.apache.org/" target="_blank" rel="noreferrer" >
             <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="apache" width="40" height="40"/>
       </a>
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" >
+            <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="40" height="40"/>
+      </a>
+      <a href="https://cucumber.io/" target="_blank" rel="noreferrer" >
+            <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumber" width="40" height="40"/>
+      </a>
+      <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer" >
+            <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg" alt="jenkins" width="40" height="40"/>
+      </a>
+      <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer" >
+            <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
+      </a>
 </p>
 
 <p align="center">
