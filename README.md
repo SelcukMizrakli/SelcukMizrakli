@@ -66,3 +66,9 @@
 <p align="center">
       <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=selcukmizrakli&theme=dark&show_icons=true&count_private=true)"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=selcukmizrakli&layout=compact&langs_count=8&theme=dark"/>
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/SelcukMizrakli/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/SelcukMizrakli/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
