@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selçuk Mızraklı</h1>
-<h3 align="center">I am a 2nd year student of Alanya Alaaddin Keykubat University Computer Programming. I am developing myself in the fields of QA and AI. I am open to learning and follow new technologies closely.</h3>
+<h3 align="center">I graduated from Alanya Alaaddin Keykubat University with a degree in Computer Programming. I'm developing my skills in Quality Assurance and Artificial Intelligence. I'm open to learning and keep up with new technologies.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=selcukmizrakli&label=Profile%20views&color=0e75b6&style=flat" alt="selcukmizrakli" /> </p>
 
